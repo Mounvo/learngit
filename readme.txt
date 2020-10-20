@@ -1,4 +1,3 @@
-git test
-learning ：）
-This is a simple thing 
-Although I don't know what I'm learning ?
+Version 3 
+Git is a distributed version control system.
+Git is a free software under the GPL.
